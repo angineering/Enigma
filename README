@@ -1,0 +1,7 @@
+ENIGMA
+
+A piece of coursework from October 2011. An Enigma machine modelled after the Enigma machines the German forces used during the Second World War. 
+
+Individual combinations can be run by typing ./enigma rotors/{rotor_number.rot} plugboards/{plugboard_number.pb} and then typing in text to be converted. 
+
+For a more thorough explanation of how the machine work, see my blog at www.angineering.wordpress.com 
